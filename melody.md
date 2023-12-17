@@ -1,6 +1,7 @@
 ## part 2
 
 > present -> repeat -> variation -> deconstruct
+
 > present -> variation -> repeat -> deconstruct
 
 ### rhythmic variation
