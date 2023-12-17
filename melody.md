@@ -31,18 +31,18 @@
     + Rhythmic: maintaining the original rhythmic order
 
 * Fragmentation
-  - the motif is broken down into smaller piece that can then be repeated, removed, or even modified to create new motivic statements
-  - best used after a motif has had time to be established as important.
+  - The motif is broken into smaller parts that can be repeated, removed, or changed to make new musical phrases.
+  - best used after a motif has become really important.
 
 * Expansion & Contraction
   - the interval between two notes is increased or decreased
-  - general rule: the larger the change the bigger the impact it will have on the personality of your motif!
+  - general rule: The bigger the change, the more it will affect the personality of your motif!
 
 * Embellishment & Reduction
   + Embellishment: additional note are added to the motif
-    - Quantitative: none of the original note are moved, they all start on the exact same beat they originally started on.
+    - Quantitative: none of the original notes are moved, they all start on the exact same beat as before.
     - Qualitative: additional notes can displace the starting point of the original notes.
-  + Reduction: note are removed from the original notif
+  + Reduction: note are removed from the original motif
 
 * Reconstruction
   - required that a motif first be "Reduced"
