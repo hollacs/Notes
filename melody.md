@@ -32,8 +32,8 @@
 * Retrograde
   - playing the motif backwards
     + Complete: completely backwards
-    + Rhythmic: maintaining the original pitch order
-    + Melodic: maintaining the original rhythmic order
+    + Melodic: maintaining the original pitch order
+    + Rhythmic: maintaining the original rhythmic order
 
 
 * Fragmentation
